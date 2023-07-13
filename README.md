@@ -11,8 +11,8 @@ by the template variable StdHandler<Base,Derived>.
 
 Example:
 ```cpp
-include <cstdio>
-include "dda.hpp"
+#include <cstdio>
+#include "dda.hpp"
 
 using namespace dda;
 
